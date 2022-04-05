@@ -5,3 +5,15 @@
 // en la corrección ni reemplaza a los tests.
 
 listOf(1, 8, 10).average()
+
+"Hola".toUpperCase()
+
+val l = mutableListOf(1, 3, 4)
+
+l
+
+l.add(6)
+
+l
+
+
